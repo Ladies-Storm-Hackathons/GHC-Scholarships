@@ -1,8 +1,8 @@
 # GHC-Scholarships
 
-Comprehensive list of student scholarships for the Grace Hopper Conference in 2015. 
+Comprehensive list of student scholarships for the Grace Hopper Conference in Octover 2015. 
 
-To add to this, send a pull request or email freialisa@gmail.com
+To add to this, send a pull request or email freialisa@gmail.com. This aims to cover all scholarships, even if they only apply to specific sub groups (LGBTQ, specific country, etc) to enable as many students to attend GHC as possible!
 
 | Deadline | Scholarship |
 |----------|-------------|
