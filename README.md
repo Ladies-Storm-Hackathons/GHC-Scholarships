@@ -1,6 +1,6 @@
 # GHC-Scholarships
 
-Creating a comprehensive list of scholarships for the Grace Hopper Conference
+Creating a comprehensive list of student scholarships for the Grace Hopper Conference in 2015
 
 | Deadline | Scholarship |
 |----------|-------------|
