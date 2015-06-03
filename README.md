@@ -7,5 +7,5 @@ To add to this, send a pull request or email freialisa@gmail.com. This list aims
 | Deadline | Scholarship |
 |----------|-------------|
 | April 15 | [GHC Conference Scholarship] (http://anitaborg.org/awards-grants/ghc-scholarship-grants/)  |
-|  June 16    | [Google scholarship (outdated link) ] (https://docs.google.com/forms/d/1E2dG8AiUE4lDOl7nlfi2PFvacjDT5js_f_M_elyYDQw/viewform) |
+|  June 16    | [Google scholarship ] (https://docs.google.com/forms/d/1E2dG8AiUE4lDOl7nlfi2PFvacjDT5js_f_M_elyYDQw/viewform) |
 | June 19         | [Facebook Scholarship  ] (https://www.facebook.com/careers/program/gracehopper2015/)|
