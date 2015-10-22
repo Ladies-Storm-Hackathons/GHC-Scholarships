@@ -1,14 +1,6 @@
-Please note that the companies listed are from corporate sponsors which still
-host a certain number of spaces/tickets for students.  As it stands, regular
-student sign ups have a waitlist and unless you get off the waitlist,
-sponsorships from corporate sponsors are technically the only other way to
-guarantee space at GHC 2015.
+# GHC-Scholarships
 
-But keep trying. Don't lose hope. You are awesome.
-
-# GHC-Scholarships (2015)
-
-Comprehensive list of student scholarships for the Grace Hopper Conference in October 2015.
+Comprehensive list of student scholarships for the Grace Hopper Celebartion for Women in Computing held every October.
 
 To add to this, send a pull request or email freialisa@gmail.com. This list aims
 to cover all relevant scholarships, even if they  apply to specific sub groups
@@ -17,6 +9,7 @@ possible!
 
 ## Active Scholarships
 
+Check back in Spring 2016!
 
 ## Archive (2015)
 
