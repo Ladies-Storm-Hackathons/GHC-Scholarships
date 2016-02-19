@@ -7,9 +7,7 @@ to cover all relevant scholarships, even if they  apply to specific sub groups
 (LGBTQ, specific country, etc) to enable as many students to attend GHC as
 possible!
 
-## Active Scholarships
-
-Check back in Spring 2016!
+## Active Scholarships : GHC 2016
 
 | Deadline | Scholarship | Results Released |
 |----------|-------------|------------------|
