@@ -11,6 +11,11 @@ possible!
 
 Check back in Spring 2016!
 
+| Deadline | Scholarship | Results Released |
+|----------|-------------|------------------|
+| | [GHC Conference Scholarship](http://ghc.anitaborg.org/2016-student-academic/scholarships/) | |
+
+
 ## Archive (2015)
 
 | Deadline | Scholarship | Results Released |
