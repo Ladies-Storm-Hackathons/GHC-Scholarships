@@ -11,7 +11,7 @@ possible!
 
 | Deadline | Scholarship | Results Released |
 |----------|-------------|------------------|
-| April 4 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2016-student-academic/scholarships/) | |
+| April 4 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2016-student-academic/scholarships/) | June 1 |
 | June 15 | [Facebook GHC Scholarship] (https://www.facebook.com/careers/program/gracehopper2016/) | July 15 |
 
 
