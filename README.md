@@ -14,6 +14,7 @@ possible!
 | April 4 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2016-student-academic/scholarships/) | June 1 |
 | June 15 | [Facebook GHC Scholarship] (https://www.facebook.com/careers/program/gracehopper2016/) | July 15 |
 | May 13 | [GoDaddy GHC Scholarship] (https://app.jobvite.com/CompanyJobs/Careers.aspx?k=Job&j=oB3X2fwn) | June 15 |
+| July 10 | [Google GHC Travel Grant] (https://docs.google.com/a/u.northwestern.edu/forms/d/1IPr1Ju7dEt1UTzwbYn_xliDhYSmYXib4hkJ4k9KljXE/viewform) | July 27 |
 
 ## Archive (2016)
 
