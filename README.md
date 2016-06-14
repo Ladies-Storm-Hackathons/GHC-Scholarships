@@ -1,9 +1,10 @@
 # GHC-Scholarships
 
-Comprehensive list of student scholarships for the Grace Hopper Celebartion for Women in Computing held every October.
+Comprehensive list of student scholarships for the Grace Hopper Celebration for
+Women in Computing held every October.
 
 To add to this, send a pull request or email freialisa@gmail.com. This list aims
-to cover all relevant scholarships, even if they  apply to specific sub groups
+to cover all relevant scholarships, even if they apply to specific sub groups
 (LGBTQ, specific country, etc) to enable as many students to attend GHC as
 possible!
 
@@ -12,12 +13,13 @@ possible!
 | Deadline | Scholarship | Results Released |
 |----------|-------------|------------------|
 | April 4 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2016-student-academic/scholarships/) | June 1 |
-| June 15 | [Facebook GHC Scholarship] (https://www.facebook.com/careers/program/gracehopper2016/) | July 15 |
-| May 13 | [GoDaddy GHC Scholarship] (https://app.jobvite.com/CompanyJobs/Careers.aspx?k=Job&j=oB3X2fwn) | June 15 |
+| May 13 | [GoDaddy GHC Scholarship](https://app.jobvite.com/CompanyJobs/Careers.aspx?k=Job&j=oB3X2fwn) | June 15 |
+| June 15 | [Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2016/) | July 15 |
+| June 17 | [Bloomberg Travel Grant](https://www.aspirations.org/2016-bloomberg-travel-grant-grace-hopper-celebration-women-computing-official-rules) | July 8 |
 
 ## Archive (2016)
 
-[Microsoft Conference Scholarships] (https://careers.microsoft.com/students/scholarships)
+[Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships)
 
 
 ## Archive (2015)
