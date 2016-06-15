@@ -19,8 +19,9 @@ possible!
 
 ## Archive (2016)
 
-[Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships)
 | Deadline | Scholarship | Results Released |
+|----------|-------------|------------------|
+| | [Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | |
 | May 13 | [GoDaddy GHC Scholarship](https://app.jobvite.com/CompanyJobs/Careers.aspx?k=Job&j=oB3X2fwn) | June 15 |
 
 
