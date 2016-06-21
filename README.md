@@ -15,7 +15,8 @@ possible!
 | April 4 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2016-student-academic/scholarships/) | June 1 |
 | June 15 | [Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2016/) | July 15 |
 | June 17 | [Bloomberg Travel Grant](https://www.aspirations.org/2016-bloomberg-travel-grant-grace-hopper-celebration-women-computing-official-rules) | July 8 |
-| July 10 | [Google GHC Scholarship] (https://docs.google.com/forms/d/1IPr1Ju7dEt1UTzwbYn_xliDhYSmYXib4hkJ4k9KljXE/viewform) | July 27 |
+| July 10 | [Google GHC Scholarship](https://docs.google.com/forms/d/1IPr1Ju7dEt1UTzwbYn_xliDhYSmYXib4hkJ4k9KljXE/viewform) | July 27 |
+| July 13 | [Twitter @Womeng Grace Hopper Fellowship](https://twitterghcfellowship.splashthat.com/) | End of July |
 
 ## Archive (2016)
 
