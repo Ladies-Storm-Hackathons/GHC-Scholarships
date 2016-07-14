@@ -14,6 +14,7 @@ possible!
 |----------|-------------|------------------|
 | July 10 | [Google GHC Scholarship](https://docs.google.com/forms/d/1IPr1Ju7dEt1UTzwbYn_xliDhYSmYXib4hkJ4k9KljXE/viewform) | July 27 |
 | July 13 | [Twitter @Womeng Grace Hopper Fellowship](https://twitterghcfellowship.splashthat.com/) | End of July |
+| Sept 6 | [CRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) |  |
 
 ## Archive (2016)
 
