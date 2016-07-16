@@ -13,7 +13,7 @@ possible!
 | Deadline | Scholarship | Results Released |
 |----------|-------------|------------------|
 | July 10 | [Google GHC Scholarship](https://docs.google.com/forms/d/1IPr1Ju7dEt1UTzwbYn_xliDhYSmYXib4hkJ4k9KljXE/viewform) | July 27 |
-| July 13 | [Twitter @Womeng Grace Hopper Fellowship](https://twitterghcfellowship.splashthat.com/) | End of July |
+| July 17 | [Twitter @Womeng Grace Hopper Fellowship](https://twitterghcfellowship.splashthat.com/) | End of July |
 
 ## Archive (2016)
 
