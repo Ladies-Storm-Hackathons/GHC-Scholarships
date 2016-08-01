@@ -8,6 +8,8 @@ to cover all relevant scholarships, even if they apply to specific sub groups
 (LGBTQ, specific country, etc) to enable as many students to attend GHC as
 possible!
 
+## [GHC 2016 Resume Database] (http://ghc.anitaborg.org/2016-attend/resume-database/)
+
 ## Active (2016)
 
 | Deadline | Scholarship | Results Released | Eligibilty |
