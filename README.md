@@ -14,6 +14,7 @@ possible!
 
 | Deadline | Scholarship | Results Released | Eligibilty |
 |----------|-------------|------------------|------------|
+| Aug 22 | [Yext Grace Hopper Scholarship](https://boards.greenhouse.io/gracehopper/jobs/244663#.V6JMhfkrK02) | early September | |
 | Sept 6 | [CRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | | 
 
 
