@@ -14,9 +14,7 @@ possible!
 
 | Deadline | Scholarship | Results Released | Eligibility |
 |----------|-------------|------------------|------------|
-| Aug 22 | [Yext Grace Hopper Scholarship](https://boards.greenhouse.io/gracehopper/jobs/244663#.V6JMhfkrK02) | early September | |
-| Aug 27 | [Assembled Grace Hopper Celebration Scholarship](http://bit.ly/assembled-ghc) | | Undergraduate or Graduate student at an accredited university |
-| Sept 6 | [CRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | |
+| Sept 23 | [Vietnamese women in computing ](https://docs.google.com/forms/d/1gIx74Br-mxoFSEo-2pXJH7Zp4TapBmSn_xmAMJxDhW0/viewform?edit_requested=true) | Sept 26 | |
 
 
 ## Archive (2016)
@@ -30,6 +28,10 @@ possible!
 | June 17 | [Bloomberg Travel Grant](https://www.aspirations.org/2016-bloomberg-travel-grant-grace-hopper-celebration-women-computing-official-rules) | July 8 | |
 | July 10 | [Google GHC Scholarship](https://docs.google.com/forms/d/1IPr1Ju7dEt1UTzwbYn_xliDhYSmYXib4hkJ4k9KljXE/viewform) | July 27 | |
 | July 17 | [Twitter @Womeng Grace Hopper Fellowship](https://twitterghcfellowship.splashthat.com/) | End of July | Student entering junior (2018) or senior (2017) year of undergraduate study or enrolled in a graduate program at a university in North America (USA, Canada, or Mexico) |
+| Aug 22 | [Yext Grace Hopper Scholarship](https://boards.greenhouse.io/gracehopper/jobs/244663#.V6JMhfkrK02) | early September | |
+| Aug 27 | [Assembled Grace Hopper Celebration Scholarship](http://bit.ly/assembled-ghc) | | Undergraduate or Graduate student at an accredited university |
+| Sept 6 | [CRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | |
+
 
 
 ## Archive (2015)
