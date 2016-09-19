@@ -14,7 +14,7 @@ possible!
 
 | Deadline | Scholarship | Results Released | Eligibility |
 |----------|-------------|------------------|------------|
-| Sept 23 | [Vietnamese women in computing ](https://docs.google.com/forms/d/1gIx74Br-mxoFSEo-2pXJH7Zp4TapBmSn_xmAMJxDhW0/viewform?edit_requested=true) | Sept 26 | |
+| Sept 23 | [Vietnamese women in computing ](https://docs.google.com/forms/d/1gIx74Br-mxoFSEo-2pXJH7Zp4TapBmSn_xmAMJxDhW0/viewform?edit_requested=true) | Sept 26 |You are a Vietnamese woman currently studying or working in STEM. You also agree to help staff the VWiC booth during some part of the conference.  |
 
 
 ## Archive (2016)
