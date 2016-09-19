@@ -12,21 +12,22 @@ possible!
 
 ## Active (2016)
 
-| Deadline | Scholarship | Results Released | Eligibilty |
+| Deadline | Scholarship | Results Released | Eligibility |
 |----------|-------------|------------------|------------|
 | Aug 22 | [Yext Grace Hopper Scholarship](https://boards.greenhouse.io/gracehopper/jobs/244663#.V6JMhfkrK02) | early September | |
-| Sept 6 | [CRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | | 
+| Aug 27 | [Assembled Grace Hopper Celebration Scholarship](http://bit.ly/assembled-ghc) | | Undergraduate or Graduate student at an accredited university |
+| Sept 6 | [CRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | |
 
 
 ## Archive (2016)
 
-| Deadline | Scholarship | Results Released | Eligibilty |
+| Deadline | Scholarship | Results Released | Eligibility |
 |----------|-------------|------------------|------------|
 | | [Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | | Bachelor’s degree student at a four-year college or university in the United States, Canada or Mexico |
-| May 13 | [GoDaddy GHC Scholarship](https://app.jobvite.com/CompanyJobs/Careers.aspx?k=Job&j=oB3X2fwn) | June 15 | | 
-| April 4 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2016-student-academic/scholarships/) | June 1 | | 
-| June 15 | [Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2016/) | July 15 | | 
-| June 17 | [Bloomberg Travel Grant](https://www.aspirations.org/2016-bloomberg-travel-grant-grace-hopper-celebration-women-computing-official-rules) | July 8 | | 
+| May 13 | [GoDaddy GHC Scholarship](https://app.jobvite.com/CompanyJobs/Careers.aspx?k=Job&j=oB3X2fwn) | June 15 | |
+| April 4 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2016-student-academic/scholarships/) | June 1 | |
+| June 15 | [Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2016/) | July 15 | |
+| June 17 | [Bloomberg Travel Grant](https://www.aspirations.org/2016-bloomberg-travel-grant-grace-hopper-celebration-women-computing-official-rules) | July 8 | |
 | July 10 | [Google GHC Scholarship](https://docs.google.com/forms/d/1IPr1Ju7dEt1UTzwbYn_xliDhYSmYXib4hkJ4k9KljXE/viewform) | July 27 | |
 | July 17 | [Twitter @Womeng Grace Hopper Fellowship](https://twitterghcfellowship.splashthat.com/) | End of July | Student entering junior (2018) or senior (2017) year of undergraduate study or enrolled in a graduate program at a university in North America (USA, Canada, or Mexico) |
 
