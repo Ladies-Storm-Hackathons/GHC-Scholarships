@@ -1,23 +1,25 @@
 # GHC-Scholarships
 
-Comprehensive list of student scholarships for the Grace Hopper Celebration for
-Women in Computing held every October.
+Comprehensive list of student scholarships for [the Grace Hopper Celebration for
+Women in Computing](http://ghc.anitaborg.org/) held every October.
 
 To add to this, send a pull request or email freialisa@gmail.com. This list aims
 to cover all relevant scholarships, even if they apply to specific sub groups
 (LGBTQ, specific country, etc) to enable as many students to attend GHC as
 possible!
 
-## [GHC 2016 Resume Database](http://ghc.anitaborg.org/2016-attend/resume-database/)
+
 
 ## Active (2017)
 
-| Deadline | Scholarship | Results Released | Eligibility |
-|----------|-------------|------------------|------------|
-
-No scholarships are currently active. Please come back and check later!
+| Opens | Deadline | Scholarship | Results Released | Eligibility |
+|----------||----------|-------------|------------------|------------|
+| January 25 | March 8 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2017-student-academic/2017-scholarships/) | Full time student in an accredited degree program at a college or university at the time of the conference |
+| March 2 | May 5 | [Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | | Bachelor’s, master's or PhD student at a four-year college or university in the United States, Canada or Mexico |
 
 ## Archive (2016)
+
+**[GHC 2016 Resume Database](http://ghc.anitaborg.org/2016-attend/resume-database/)**
 
 | Deadline | Scholarship | Results Released | Eligibility |
 |----------|-------------|------------------|-------------|
@@ -32,7 +34,6 @@ No scholarships are currently active. Please come back and check later!
 | Aug 27 | [Assembled Grace Hopper Celebration Scholarship](http://bit.ly/assembled-ghc) | | Undergraduate or Graduate student at an accredited university |
 | Sept 6 | [CRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | Undergraduate students attending a US institution and/or be a US citizen or permanent resident studying abroad. |
 | Sept 23 | [Vietnamese women in computing ](https://docs.google.com/forms/d/1gIx74Br-mxoFSEo-2pXJH7Zp4TapBmSn_xmAMJxDhW0/viewform?edit_requested=true) | Sept 26 |You are a Vietnamese woman currently studying or working in STEM. You also agree to help staff the VWiC booth during some part of the conference.  |
-
 
 
 ## Archive (2015)
