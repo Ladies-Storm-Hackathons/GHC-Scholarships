@@ -14,6 +14,7 @@ possible!
 
 | Deadline | Scholarship | Results Released | Eligibility |
 |----------|-------------|------------------|------------|
+| May 08 | [GHC Conference Scholarship] (http://ghc.anitaborg.org/2017-student-academic/2017-scholarships/) | | Full time student or faculty scholar at an accredited university. |
 
 No scholarships are currently active. Please come back and check later!
 
