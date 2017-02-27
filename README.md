@@ -16,7 +16,6 @@ possible!
 |----------|-------------|------------------|------------|
 | March 8 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2017-student-academic/2017-scholarships/) | | Faculty and students can apply for scholarships |
 
-No scholarships are currently active. Please come back and check later!
 
 ## Archive (2016)
 
