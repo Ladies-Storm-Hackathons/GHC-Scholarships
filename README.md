@@ -14,6 +14,7 @@ possible!
 
 | Deadline | Scholarship | Results Released | Eligibility |
 |----------|-------------|------------------|------------|
+| May 5 | [Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | | Bachelor’s, master's or PhD student at a four-year college or university in the United States, Canada or Mexico |
 
 No scholarships are currently active. Please come back and check later!
 
