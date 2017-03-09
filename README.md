@@ -1,12 +1,18 @@
 # GHC-Scholarships
 
 Comprehensive list of student scholarships for [the Grace Hopper Celebration for
-Women in Computing](http://ghc.anitaborg.org/) held every October.
-
-To add to this, send a pull request or email freialisa@gmail.com. This list aims
-to cover all relevant scholarships, even if they apply to specific sub groups
-(LGBTQ, specific country, etc) to enable as many students to attend GHC as
+Women in Computing](http://ghc.anitaborg.org/) held every October. This list aims
+to cover all relevant scholarships, even if they apply to specific sub-groups
+(LGBTQ+, specific country, etc) to enable as many students to attend GHC as
 possible!
+
+### Contributing
+
+To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
+[Issue](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/issues). If you deeply prefer
+email, you can reach a mod at aliceyoung.9@gmail.com.
+
+_We're looking for 1-2 new repo managers. Email aliceyoung.9@gmail.com_
 
 ## Active (2017)
 | Opens | Deadline | Scholarship | Results Released | Eligibility |
