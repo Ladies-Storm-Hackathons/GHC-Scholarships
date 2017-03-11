@@ -10,9 +10,8 @@ possible!
 
 To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
 [Issue](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/issues). If you deeply prefer
-email, you can reach a mod at aliceyoung.9@gmail.com.
-
-_We're looking for 1-2 new repo managers. Email aliceyoung.9@gmail.com_
+email, you can reach a mod at:
+* aliceyoung.9@gmail.com.
 
 ## Active (2017)
 | Opens | Deadline | Scholarship | Results Released | Eligibility |
