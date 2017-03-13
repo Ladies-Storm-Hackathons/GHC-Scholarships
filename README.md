@@ -12,6 +12,7 @@ possible!
 | Scholarship | Opens | Deadline | Results Released | Eligibility |
 |-------|----------|-------------|------------------|-------------|
 [Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | March 2| May 5 | | Bachelor’s, master's or PhD student at a four-year college or university in the United States, Canada or Mexico |
+| &nbsp; | | | | |
 [GHC Conference Scholarship](http://ghc.anitaborg.org/2017-student-academic/2017-scholarships/) | January 25 | March 8 | | Full time student in an accredited degree program at a college or university at the time of the conference |
 
 ## Archive (2016)
