@@ -13,12 +13,9 @@ To add to this, send a pull request. If you aren't familiar enough with git/Gith
 email, you can reach a mod at:
 * aliceyoung.9@gmail.com.
 
-## Active (2017)
-| Opens | Deadline | Scholarship | Results Released | Eligibility |
+## 2017 Scholarships
+| Scholarship | Opens | Deadline | Results Released | Eligibility |
 |-------|----------|-------------|------------------|-------------|
-| March 2| May 5 | [Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | | Bachelor’s, master's or PhD student at a four-year college or university in the United States, Canada or Mexico |
-
-## Archive (2017)
-| Deadline | Scholarship | Results Released | Eligibility |
-|----------|-------------|------------------|-------------|
-| January 25 | March 8 | [GHC Conference Scholarship](http://ghc.anitaborg.org/2017-student-academic/2017-scholarships/) | Full time student in an accredited degree program at a college or university at the time of the conference |
+[Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | March 2| May 5 | | Bachelor’s, master's or PhD student at a four-year college or university in the United States, Canada or Mexico |
+| &nbsp; | | | | |
+[GHC Conference Scholarship](http://ghc.anitaborg.org/2017-student-academic/2017-scholarships/) | January 25 | March 8 | | Full time student in an accredited degree program at a college or university at the time of the conference |
