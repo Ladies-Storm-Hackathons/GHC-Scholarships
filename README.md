@@ -16,6 +16,8 @@ email, you can reach a mod at:
 ## 2017 Scholarships
 | Scholarship | Opens | Deadline | Results Released | Eligibility |
 |-------|----------|-------------|------------------|-------------|
+[Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2017/) | April 15 | June 15 | July 15 | Enrolled at an educational institution (high school through post-doc students) |
+| &nbsp; | | | | |
 [Best ACM-W Officer Contest](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/blob/master/ACMWContestFlyer_Best%20Officer_Final.pdf) | | May 15 | Week of June 5 | ACM-W Officers |
 | &nbsp; | | | | |
 [Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | March 2| May 5 | June 1 | Bachelor’s, master's or PhD student at a four-year college or university in the United States, Canada or Mexico |
