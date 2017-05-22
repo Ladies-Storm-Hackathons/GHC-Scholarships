@@ -16,7 +16,9 @@ email, you can reach a mod at:
 ## 2017 Scholarships
 | Scholarship | Opens | Deadline | Results Released | Eligibility |
 |-------|----------|-------------|------------------|-------------|
-[ABI Hoppers Program](https://ghc.anitaborg.org/hoppers/) | May 13 | May 31 | unknown | Work multiple shifts, up to eight non-consecutive hours spread over the three days of GHC. Attend an orientation and commit to assigned shifts. |
+[NCWIT GHC17 Travel Grant](https://www.aspirations.org/2017-ncwit-travel-grant-grace-hopper-celebration-women-computing-official-rules) | May 12 | June 16 | July 7 | A member of the NCWIT Aspirations in Computing Community, reside in the United States of America or be a US citizen residing in Puerto Rico, US Virgin Islands, Guam or on US Military Bases, US citizen or permanent resident with a valid Green Card and have a valid US Social Security number, at least 18 years old, not attending high school, not immediate family (including spouses, siblings, children, grandchildren and persons residing in the same household) of employees, extended staff, contractors or board members of NCWIT. |
+| &nbsp; | | | | |
+[ABI Hoppers Program](https://ghc.anitaborg.org/hoppers/) | May 13 | May 31 | July 7 | Work multiple shifts, up to eight non-consecutive hours spread over the three days of GHC. Attend an orientation and commit to assigned shifts. |
 | &nbsp; | | | | |
 [Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2017/) | April 15 | June 15 | July 15 | Enrolled at an educational institution (high school through post-doc students) |
 | &nbsp; | | | | |
