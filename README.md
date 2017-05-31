@@ -16,10 +16,7 @@ email, you can reach a mod at:
 ## 2017 Scholarships
 | Scholarship | Opens | Deadline | Results Released | Eligibility |
 |-------|----------|-------------|------------------|-------------|
-[GRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | Aug 15| | This scholarship is given to undergraduate students, who identify as a woman, in the computer science and engineering field, who:
-- Have completed at least one year of undergraduate study at the college level, and be majoring or planning to major in computer science, computer engineering, or informatics.  We cannot support students after their graduation date.
-- Are attending a US institution and/or be a US citizen or permanent resident studying abroad.
-- Graduate students are *not* eligible for this scholarship. |
+[GRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | Aug 15| | This scholarship is given to undergraduate students, who identify as a woman, in the computer science and engineering field, who have completed at least one year of undergraduate study. Must attend a US institution or be a US citizen/permanent resident studying abroad.|
 [Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2017/) | April 15 | June 15 | July 15 | Enrolled at an educational institution (high school through post-doc students) |
 [NCWIT GHC17 Travel Grant](https://www.aspirations.org/2017-ncwit-travel-grant-grace-hopper-celebration-women-computing-official-rules) | May 12 | June 16 | July 7 | A member of the NCWIT Aspirations in Computing Community, reside in the United States of America or be a US citizen residing in Puerto Rico, US Virgin Islands, Guam or on US Military Bases, US citizen or permanent resident with a valid Green Card and have a valid US Social Security number, at least 18 years old, not attending high school, not immediate family (including spouses, siblings, children, grandchildren and persons residing in the same household) of employees, extended staff, contractors or board members of NCWIT. |
 | &nbsp; | | | | |
