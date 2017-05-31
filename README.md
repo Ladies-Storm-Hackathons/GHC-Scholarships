@@ -16,14 +16,14 @@ email, you can reach a mod at:
 ## 2017 Scholarships
 | Scholarship | Opens | Deadline | Results Released | Eligibility |
 |-------|----------|-------------|------------------|-------------|
+[GRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | Aug 15| | This scholarship is given to undergraduate students, who identify as a woman, in the computer science and engineering field, who:
+- Have completed at least one year of undergraduate study at the college level, and be majoring or planning to major in computer science, computer engineering, or informatics.  We cannot support students after their graduation date.
+- Are attending a US institution and/or be a US citizen or permanent resident studying abroad.
+- Graduate students are *not* eligible for this scholarship. |
+[Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2017/) | April 15 | June 15 | July 15 | Enrolled at an educational institution (high school through post-doc students) |
 [NCWIT GHC17 Travel Grant](https://www.aspirations.org/2017-ncwit-travel-grant-grace-hopper-celebration-women-computing-official-rules) | May 12 | June 16 | July 7 | A member of the NCWIT Aspirations in Computing Community, reside in the United States of America or be a US citizen residing in Puerto Rico, US Virgin Islands, Guam or on US Military Bases, US citizen or permanent resident with a valid Green Card and have a valid US Social Security number, at least 18 years old, not attending high school, not immediate family (including spouses, siblings, children, grandchildren and persons residing in the same household) of employees, extended staff, contractors or board members of NCWIT. |
 | &nbsp; | | | | |
-[ABI Hoppers Program](https://ghc.anitaborg.org/hoppers/) | May 13 | May 31 | July 7 | Work multiple shifts, up to eight non-consecutive hours spread over the three days of GHC. Attend an orientation and commit to assigned shifts. |
-| &nbsp; | | | | |
-[Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2017/) | April 15 | June 15 | July 15 | Enrolled at an educational institution (high school through post-doc students) |
-| &nbsp; | | | | |
-[Best ACM-W Officer Contest](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/blob/master/ACMWContestFlyer_Best%20Officer_Final.pdf) | unknown | May 15 | Week of June 5 | ACM-W Officers |
-| &nbsp; | | | | |
+[ABI Hoppers Program](https://ghc.anitaborg.org/hoppers/) | May 13 | May 31 | July 7 | Work multiple shifts, up to eight non-consecutive hours spread over the three days of GHC. Attend an orientation and commit to assigned shifts.
 [Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | March 2| May 5 | June 1 | Bachelor’s, master's or PhD student at a four-year college or university in the United States, Canada or Mexico |
-| &nbsp; | | | | |
+[Best ACM-W Officer Contest](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/blob/master/ACMWContestFlyer_Best%20Officer_Final.pdf) | | May 15 | Week of June 5 | ACM-W Officers |
 [GHC Conference Scholarship](http://ghc.anitaborg.org/2017-student-academic/2017-scholarships/) | January 25 | March 8 | May 10 | Full time student in an accredited degree program at a college or university at the time of the conference |
