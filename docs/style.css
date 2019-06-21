@@ -1,0 +1,6 @@
+@media only screen and (min-width: 1200px) {
+  .markdown-section table {
+    width: auto;
+    margin: 0 calc(-25vw + 200px);
+  }
+}
